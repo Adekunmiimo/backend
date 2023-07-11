@@ -1,2 +1,2 @@
-this is a backend api built on spring boot framework in java. the api prerforms basic create and read functions 
+this is a backend API, built on the Spring boot framework in Java. the API performs basic to create and read functions 
 # backend
